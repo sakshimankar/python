@@ -16,5 +16,5 @@ if ans=="":
     print("Sentence does not have any vowels")
 else:
     print("The words with consecutive vowels are: ")
-    print(ans,)
+    print(ans)
 

@@ -1,2 +1,2 @@
 # python
-exapmles of programs using data structures and loops
+examples of programs using data structures and loops

@@ -1,4 +1,4 @@
-x=(input('enter string'))
+x=(input('enter sentence:  '))
 lt=[]
 lw=[]
 ans=""
@@ -12,6 +12,9 @@ for i in lt:
             j = j+1
             break
 if ans=="":
-    print("invalid input")
+    print("Invalid input")
+    print("Sentence does not have any vowels")
 else:
-    print(ans)
+    print("The words with consecutive vowels are: ")
+    print(ans,)
+
